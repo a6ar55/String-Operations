@@ -60,6 +60,9 @@ function removeForbiddenWords(input) {
     "puyekno",
     "egnahcno",
     "kcilcno",
+    "elyts",
+    "daeh",
+    ""
   ];
 
   forbiddenWords.forEach(function (word) {
