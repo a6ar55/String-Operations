@@ -62,7 +62,8 @@ function removeForbiddenWords(input) {
     "kcilcno",
     "elyts",
     "daeh",
-    ""
+    "freh",
+    "oof",
   ];
 
   forbiddenWords.forEach(function (word) {
